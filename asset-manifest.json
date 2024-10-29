@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/reactpage/static/css/main.b1f0504b.css",
-    "main.js": "/reactpage/static/js/main.be1f374a.js",
+    "main.js": "/reactpage/static/js/main.b24b9660.js",
     "static/js/453.7ee4257d.chunk.js": "/reactpage/static/js/453.7ee4257d.chunk.js",
     "static/media/school-ground.jpg": "/reactpage/static/media/school-ground.c48aa9d7127a7723476a.jpg",
     "static/media/main-about-2.jpg": "/reactpage/static/media/main-about-2.0d8ff2c425d62f81dc19.jpg",
@@ -19,18 +19,27 @@
     "static/media/about.jpg": "/reactpage/static/media/about.15fd68ace69404e63abb.jpg",
     "static/media/8.jpeg": "/reactpage/static/media/8.70911ec468198a76ee57.jpeg",
     "static/media/second.gif": "/reactpage/static/media/second.9539e6426bdf28e2735e.gif",
+    "static/media/stars.svg": "/reactpage/static/media/stars.96dcc6a8f08f4f900161df66a40e91ce.svg",
+    "static/media/mountain-1.svg": "/reactpage/static/media/mountain-1.2d4c501ef22dc7f6afc8db070130c8c0.svg",
+    "static/media/mountain-2.svg": "/reactpage/static/media/mountain-2.2936a18035cde0c7511fcb7a1243c394.svg",
     "static/media/slick.svg": "/reactpage/static/media/slick.2630a3e3eab21c607e21.svg",
     "static/media/b1.webp": "/reactpage/static/media/b1.880805c4bbc7f62e78c6.webp",
     "static/media/slick.eot": "/reactpage/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/clouds-right.svg": "/reactpage/static/media/clouds-right.ee1e6eab50c6f810be395c72f6f8c7ec.svg",
     "static/media/slick.ttf": "/reactpage/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/sun.svg": "/reactpage/static/media/sun.0c0a7afe7c2bda0e8788ca57e5966a7a.svg",
+    "static/media/clouds-left.svg": "/reactpage/static/media/clouds-left.2cb1ec23484e56a9579545a6be9251f5.svg",
     "static/media/slick.woff": "/reactpage/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/reactpage/index.html",
+    "static/media/clouds-bottom.svg": "/reactpage/static/media/clouds-bottom.defa246f1eed6d3c90baeb5149e24702.svg",
+    "static/media/cloud-bottom.svg": "/reactpage/static/media/cloud-bottom.07fc0f703ff3f87e10be1478921532e9.svg",
+    "static/media/mountain-3.svg": "/reactpage/static/media/mountain-3.ce5a9984bf8e124c8762787e745e72e4.svg",
     "main.b1f0504b.css.map": "/reactpage/static/css/main.b1f0504b.css.map",
-    "main.be1f374a.js.map": "/reactpage/static/js/main.be1f374a.js.map",
+    "main.b24b9660.js.map": "/reactpage/static/js/main.b24b9660.js.map",
     "453.7ee4257d.chunk.js.map": "/reactpage/static/js/453.7ee4257d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b1f0504b.css",
-    "static/js/main.be1f374a.js"
+    "static/js/main.b24b9660.js"
   ]
 }
