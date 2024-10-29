@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/reactpage/static/css/main.b1f0504b.css",
-    "main.js": "/reactpage/static/js/main.b24b9660.js",
+    "main.css": "/reactpage/static/css/main.3e5a383d.css",
+    "main.js": "/reactpage/static/js/main.784266ec.js",
     "static/js/453.7ee4257d.chunk.js": "/reactpage/static/js/453.7ee4257d.chunk.js",
     "static/media/school-ground.jpg": "/reactpage/static/media/school-ground.c48aa9d7127a7723476a.jpg",
     "static/media/main-about-2.jpg": "/reactpage/static/media/main-about-2.0d8ff2c425d62f81dc19.jpg",
@@ -34,12 +34,12 @@
     "static/media/clouds-bottom.svg": "/reactpage/static/media/clouds-bottom.defa246f1eed6d3c90baeb5149e24702.svg",
     "static/media/cloud-bottom.svg": "/reactpage/static/media/cloud-bottom.07fc0f703ff3f87e10be1478921532e9.svg",
     "static/media/mountain-3.svg": "/reactpage/static/media/mountain-3.ce5a9984bf8e124c8762787e745e72e4.svg",
-    "main.b1f0504b.css.map": "/reactpage/static/css/main.b1f0504b.css.map",
-    "main.b24b9660.js.map": "/reactpage/static/js/main.b24b9660.js.map",
+    "main.3e5a383d.css.map": "/reactpage/static/css/main.3e5a383d.css.map",
+    "main.784266ec.js.map": "/reactpage/static/js/main.784266ec.js.map",
     "453.7ee4257d.chunk.js.map": "/reactpage/static/js/453.7ee4257d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b1f0504b.css",
-    "static/js/main.b24b9660.js"
+    "static/css/main.3e5a383d.css",
+    "static/js/main.784266ec.js"
   ]
 }
