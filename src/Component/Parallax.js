@@ -105,7 +105,7 @@ function Parallax() {
             tl.to(
                 copy.current,
                 {
-                    y: "-10cl0%",
+                    y: "-100%",
                     opacity: 1
                 },
                 0
