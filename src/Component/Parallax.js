@@ -35,7 +35,7 @@ function Parallax() {
                 scrollTrigger: {
                     trigger: parallaxRef.current,
                     start: "top top",
-                    end: "5000 bottom",
+                    end: "2000 bottom",
                     scrub: true,
                     pin: true,
                     onUpdate: (self) => {
@@ -105,7 +105,7 @@ function Parallax() {
             tl.to(
                 copy.current,
                 {
-                    y: "-250%",
+                    y: "-10cl0%",
                     opacity: 1
                 },
                 0
@@ -134,6 +134,7 @@ function Parallax() {
                 <img ref={stars} className='stars' src={Parallax8} />
                 <div ref={copy} className="copy">
                     <h1>Happy Place</h1>
+                    <h3>For Young Mind</h3>
                     <span ref={btn}>Discover more</span>
                 </div>
             </div>

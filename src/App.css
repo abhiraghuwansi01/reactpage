@@ -131,6 +131,9 @@ body {
 .copy h1 {
   font-size: 8rem;
 }
+.copy h3 {
+  font-size: 5rem;
+}
 
 .copy span {
   background-color: var(--secondaryColor);
