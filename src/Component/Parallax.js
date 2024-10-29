@@ -1,5 +1,14 @@
 import { useRef, useEffect, useState } from "react";
 import { gsap } from "gsap";
+import Parallax1 from "../../public/parallax/cloud-bottom.svg";
+import Parallax2 from "../../public/parallax/clouds-bottom.svg";
+import Parallax3 from "../../public/parallax/clouds-left.svg";
+import Parallax4 from "../../public/parallax/clouds-right.svg";
+import Parallax5 from "../../public/parallax/mountain-1.svg";
+import Parallax6 from "../../public/parallax/mountain-2.svg";
+import Parallax7 from "../../public/parallax/mountain-3.svg";
+import Parallax8 from "../../public/parallax/stars.svg";
+import Parallax9 from "../../public/parallax/sun.svg";
 import { ScrollTrigger } from "gsap/dist/ScrollTrigger";
 
 function Parallax() {
@@ -115,14 +124,14 @@ function Parallax() {
     return (
         <div className="parallax-outer">
             <div ref={parallaxRef} style={{ background: `linear-gradient(#0F2B9C, #673D7D ${background}%, #A74A67, #EDFC54 )` }} className='parallax'>
-                <img ref={mountain3} className='mountain-3' src="/public/parallax/mountain-3.svg" />
-                <img ref={mountain2} className='mountain-2' src="/public/parallax/mountain-2.svg" />
-                <img ref={mountain1} className='mountain-1' src="/public/parallax/mountain-1.svg" />
-                <img ref={sun} className='sun' src="/parallax/sun.svg" />
-                <img ref={cloudsBottom} className='clouds-bottom' src="/public/parallax/cloud-bottom.svg" />
-                <img ref={cloudsLeft} className='clouds-left' src="/public/parallax/clouds-left.svg" />
-                <img ref={cloudsRight} className='clouds-right' src="/public/parallax/clouds-right.svg" />
-                <img ref={stars} className='stars' src="/public/parallax/stars.svg" />
+                <img ref={mountain3} className='mountain-3' src={Parallax7} />
+                <img ref={mountain2} className='mountain-2' src={Parallax6} />
+                <img ref={mountain1} className='mountain-1' src={Parallax5} />
+                <img ref={sun} className='sun' src={Parallax9} />
+                <img ref={cloudsBottom} className='clouds-bottom' src={Parallax1} />
+                <img ref={cloudsLeft} className='clouds-left' src={Parallax3} />
+                <img ref={cloudsRight} className='clouds-right' src={Parallax4} />
+                <img ref={stars} className='stars' src={Parallax8} />
                 <div ref={copy} className="copy">
                     <h1>Happy Place</h1>
                     <span ref={btn}>Discover more</span>
