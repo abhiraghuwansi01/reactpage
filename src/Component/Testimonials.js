@@ -57,8 +57,8 @@ export default function Testimonials() {
           </div>
         ))}
       </Slider>
-      <div className='button-1'>
-      <a className='a-read-more mt-5 mb-3'href='#'>Read More...</a>
+      <div className='button-1'> 
+      <a className='a-read-more mt-5 mb-3'>Read More...</a>
       </div>
     </div>
     </div>

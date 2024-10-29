@@ -19,7 +19,7 @@ export default function Section4() {
         <img className='first-img m-3 mb-4' src={main} alt='' width={400} />
         <h5>FOUNDATIONAL STAGE</h5>
         <p>The Foundational Stage schooling at AJPS comprises of the Pre-Primary Section to Grade II. It forms the crux of the edifice of holistic child development.</p>
-        <a className='a-about-3' href='#'>Known More</a>
+        <a className='a-about-3'>Known More</a>
       </div>
      </div>
      <div className='col-md-6 col-sm-12 col-6 p-2'>
@@ -28,7 +28,7 @@ export default function Section4() {
      <h5>PREPARATORY STAGE</h5>
      <p>The Preparatory Stage schooling at AJPS comprises of Grade III to Grade V. This is one of the most important phases in a
      child’s learning contour.</p>
-     <a className='a-about-3' href='#'>Known More</a>
+     <a className='a-about-3'>Known More</a>
      </div>
      </div>
      <div className='col-md-6 col-sm-12 col-6 p-2'>
@@ -36,7 +36,7 @@ export default function Section4() {
      <img className='first-img m-3 mb-4' src={main} alt='' width={400} />
      <h5>MIDDLE STAGE</h5>
      <p>The Middle Stage schooling at AJPS comprises of Grade VI to Grade VIII. It is a big leap from the previous arenas of learning to experiential learning.</p>
-     <a className='a-about-3' href='#'>Known More</a>
+     <a className='a-about-3'>Known More</a>
      </div>
      </div>
 
@@ -45,7 +45,7 @@ export default function Section4() {
      <img className='first-img m-3 mb-4' src={main} alt='' width={400} />
      <h5>SECONDARY STAGE</h5>
      <p>The Secondary Stage schooling at AJPS comprises of Grade IX to Grade XII. The corridors of education and learning are fully opened to multi-disciplinary system of education</p>
-     <a className='a-about-3' href='#'>Known More</a>
+     <a className='a-about-3'>Known More</a>
      </div>
      </div>
 

@@ -32,7 +32,7 @@ const Footer = () => {
                 "WordPress Hosting",
               ].map((link, index) => (
                 <li key={index}>
-                  <a href="#" className=" d-block mb-2">
+                  <a className="d-block mb-2">
                     {link}
                   </a>
                 </li>
@@ -55,7 +55,7 @@ const Footer = () => {
                 "Open a Ticket",
               ].map((link, index) => (
                 <li key={index}>
-                  <a href="#" className=" d-block mb-2">
+                  <a className=" d-block mb-2">
                     {link}
                   </a>
                 </li>
@@ -67,6 +67,7 @@ const Footer = () => {
             <h6 className="text-uppercase font-weight-bold mb-3 text-start">
               Platforms
             </h6>
+           
             <ul className="list-unstyled text-start">
               {[
                 "WordPress v6.x",
@@ -79,7 +80,7 @@ const Footer = () => {
                 "Essential Grid Gallery",
               ].map((link, index) => (
                 <li key={index}>
-                  <a href="#" className=" d-block mb-2">
+                  <a className=" d-block mb-2">
                     {link}
                   </a>
                 </li>
@@ -103,7 +104,7 @@ const Footer = () => {
                 "Newsletter",
               ].map((link, index) => (
                 <li key={index}>
-                  <a href="#" className=" d-block mb-2">
+                  <a className=" d-block mb-2">
                     {link}
                   </a>
                 </li>
@@ -114,26 +115,27 @@ const Footer = () => {
       </div>
       {/* Lower Row with Social Icons and Copyright */}
       <div className="footer-bottom container-fluid">
+      <img alt="dummy" className="img-dummy-footer d-none" />
         <div className="row">
           {/* Social Icons Column */}
           <div className="col-12 col-md-6">
             <div className="social-icons d-flex">
-              <a href="#" className="social-icon" aria-label="Facebook">
+              <a className="social-icon" aria-label="Facebook">
                 <FaFacebook />
               </a>
-              <a href="#" className="social-icon" aria-label="LinkedIn">
+              <a className="social-icon" aria-label="LinkedIn">
                 <FaLinkedin />
               </a>
-              <a href="#" className="social-icon" aria-label="Instagram">
+              <a className="social-icon" aria-label="Instagram">
                 <FaInstagram />
               </a>
-              <a href="#" className="social-icon" aria-label="YouTube">
+              <a className="social-icon" aria-label="YouTube">
                 <FaYoutube />
               </a>
-              <a href="#" className="social-icon" aria-label="Twitter">
+              <a className="social-icon" aria-label="Twitter">
                 <FaTwitter />
               </a>
-              <a href="#" className="social-icon" aria-label="Pinterest">
+              <a className="social-icon" aria-label="Pinterest">
                 <FaPinterest />
               </a>
             </div>

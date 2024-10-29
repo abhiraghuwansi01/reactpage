@@ -26,7 +26,7 @@ export default function Section3() {
             <p  className='fs-6 fw-light'><span className='span-p'>Amara Jyothi Public School</span> aspires to be a transformative force in school education, aligning with contemporary global standards. Our mission is to offer high-quality, affordable education that invigorates and inspires the creative minds of modern India.</p>
       </div>
       <div className='button-1'>
-      <a className='a-read-more mt-5 mb-3'href='#'>Read More...</a>
+      <a className='a-read-more mt-5 mb-3'>Read More...</a>
       </div>
       </div>
     </div>
