@@ -1,14 +1,14 @@
 import { useRef, useEffect, useState } from "react";
 import { gsap } from "gsap";
-import Parallax1 from "../../public/parallax/cloud-bottom.svg";
-import Parallax2 from "../../public/parallax/clouds-bottom.svg";
-import Parallax3 from "../../public/parallax/clouds-left.svg";
-import Parallax4 from "../../public/parallax/clouds-right.svg";
-import Parallax5 from "../../public/parallax/mountain-1.svg";
-import Parallax6 from "../../public/parallax/mountain-2.svg";
-import Parallax7 from "../../public/parallax/mountain-3.svg";
-import Parallax8 from "../../public/parallax/stars.svg";
-import Parallax9 from "../../public/parallax/sun.svg";
+import Parallax1 from "../image/parallax/cloud-bottom.svg";
+import Parallax2 from "../image/parallax/clouds-bottom.svg";
+import Parallax3 from "../image/parallax/clouds-left.svg";
+import Parallax4 from "../image/parallax/clouds-right.svg";
+import Parallax5 from "../image/parallax/mountain-1.svg";
+import Parallax6 from "../image/parallax/mountain-2.svg";
+import Parallax7 from "../image/parallax/mountain-3.svg";
+import Parallax8 from "../image/parallax/stars.svg";
+import Parallax9 from "../image/parallax/sun.svg";
 import { ScrollTrigger } from "gsap/dist/ScrollTrigger";
 
 function Parallax() {
